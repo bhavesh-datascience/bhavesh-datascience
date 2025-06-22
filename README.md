@@ -15,7 +15,7 @@
 - 🌱 I’m exploring **Deep Learning, NLP, and AI applications**
 - 💬 Ask me about **Python, scikit-learn, pandas, or NumPy**
 - 👨‍💻 All of my projects are available at: [GitHub/bhavesh-datascience](https://github.com/bhavesh-datascience)
-- 📫 How to reach me: `bhaveshbiru@gmail.com` 
+- 🌐 My portfolio: [bhavesh02.vercel.app](https://bhavesh02.vercel.app)
 - ⚡ Fun fact: I debug my brain before I debug my code 😄
 
 ---
@@ -58,8 +58,8 @@
   <a href="https://linkedin.com/in/your-link" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:bhaveshbiru@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://bhavesh02.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
