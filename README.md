@@ -11,7 +11,7 @@ I'm a Python & Machine Learning enthusiast passionate about building intelligent
 
 ## 📈 GitHub Stats
 
-![Bhavesh's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=bhavesh-datascience&show_icons=true&theme=tokyonight])
+![Bhavesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavesh-datascience&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-datascience&layout=compact&theme=tokyonight)
 
