@@ -12,7 +12,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Python & Machine Learning projects**
-- 🌱 I’m exploring **Deep Learning, NLP, and AI applications**
+- 🌱 Exploring **Deep Learning, NLP, and AI applications**
 - 💬 Ask me about **Python, scikit-learn, pandas, or NumPy**
 - 👨‍💻 All of my projects are available at: [GitHub/bhavesh-datascience](https://github.com/bhavesh-datascience)
 - 🌐 My portfolio: [bhavesh02.vercel.app](https://bhavesh02.vercel.app)
@@ -44,7 +44,7 @@
 
 ---
 
-## 💡 Top Languages
+## 📚 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-datascience&layout=compact&theme=tokyonight" width="50%" />
@@ -52,10 +52,18 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavesh-datascience&theme=tokyonight&no-bg=true&no-frame=true" />
+</p>
+
+---
+
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/bhavesh-biru-007532363" target="_blank">
+  <a href="https://www.linkedin.com/in/bhavesh-biru-007532363" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://bhavesh02.vercel.app" target="_blank">
