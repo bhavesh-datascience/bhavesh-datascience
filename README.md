@@ -15,7 +15,7 @@
 - 🌱 I’m exploring **Deep Learning, NLP, and AI applications**
 - 💬 Ask me about **Python, scikit-learn, pandas, or NumPy**
 - 👨‍💻 All of my projects are available at: [GitHub/bhavesh-datascience](https://github.com/bhavesh-datascience)
-- 📫 How to reach me: `bhaveshbiru@gmail.com` *(or insert your contact)*
+- 📫 How to reach me: `bhaveshbiru@gmail.com` 
 - ⚡ Fun fact: I debug my brain before I debug my code 😄
 
 ---
