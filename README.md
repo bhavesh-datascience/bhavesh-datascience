@@ -55,7 +55,7 @@
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="www.linkedin.com/in/bhavesh-biru-007532363" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://bhavesh02.vercel.app" target="_blank">
